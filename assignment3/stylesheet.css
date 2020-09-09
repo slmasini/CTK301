@@ -1,0 +1,29 @@
+/* This is my new stylesheet */
+
+.specialp {
+ color: #FF0000;
+}
+
+#specialid {
+ background-color: #FF0000;
+}
+
+a:link {
+ color: #FF0000;
+}
+
+a:visited {
+ color: #00FF00;
+}
+
+a:hover {
+ color: #ffff00;
+}
+
+#divexample {
+  color: #000000;
+}
+
+.spanstyle {
+  color: #FF0000;
+}
