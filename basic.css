@@ -1,0 +1,81 @@
+body {
+  background-color: #CCCCCC;
+  background-image: url(assignment2/ISU3.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+main {
+  background-color: #0000FF;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 16px;
+}
+
+.customtext {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.fontcombined {
+font: bold 20px Arial, Helvetica, sans-serif;
+}
+
+.imgbox {
+  border: 5px solid #FF0000;
+  padding: 10px;
+  background-color: #FFFFFF;
+  margin: 20px;
+}
+
+.boxmodel {
+  border: 2px solid #0000FF;
+  padding: 20px 20px 20px 20px;
+  margin: 10px 10px 10px 10px;
+}
+
+.otherbox {
+  border: 1px solid #00FF00;
+  padding: 10px;
+  margin: 20px 20px 0 0;
+  width: 200px;
+}
+
+.zeroout {
+  margin: 0;
+  padding: 0;
+}
+
+.pwidth {
+  border: 1px solid #FF0000;
+  width: 100px;
+  padding: 10px;
+}
+
+.textright {
+  text-align: right;
+}
+
+.textleft {
+  text-align: left;
+}
+
+.textcenter {
+  text-align: center;
+}
+
+.textjustify {
+  text-align: justify;
+}
+
+.textspace {
+  letter-spacing: 10px;
+}
+
+.textheight {
+  line-height: 500px;
+}
