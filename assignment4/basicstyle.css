@@ -1,0 +1,32 @@
+/* This is my new stylesheet */
+body {
+  font-family: sans-serif;
+  background-color: #CCCCCC;
+  background-image: url(images/cat.jpg);
+}
+
+.textcenter {
+  text-align: center;
+}
+
+.textjustify {
+  text-align: justify;
+}
+
+h1 {
+  color: #FF6347;
+  font-style: italic;
+  font-weight: normal;
+}
+
+h2 {
+  color: #FF6347;
+  font-style: italic;
+  font-weight: normal;
+}
+
+.imgbox {
+  border: 20px solid #000000;
+  padding: 10px;
+  margin: 20px;
+}
