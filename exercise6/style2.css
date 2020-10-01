@@ -1,0 +1,16 @@
+body { background-color: #999999; }
+
+#wrapper {
+  margin: 1em auto;
+  padding: 0;
+  width: 960px;
+  border: 1px solid #ff0000;
+  background-color: #ffffff;
+  display: grid;
+  grid-template-columns: repeat(12,1fr);
+  grid-template-rows: 1fr 1fr;
+}
+
+.box {
+  border: 1px solid blue;
+}
